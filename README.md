@@ -1,1 +1,1 @@
-# recte
+# Plantilla del proyecto 26
